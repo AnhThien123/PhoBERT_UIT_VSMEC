@@ -1,0 +1,23 @@
+[
+  {
+    "config": "P4_twostage",
+    "seed": 42,
+    "accuracy": 0.658,
+    "f1_macro": 0.6423,
+    "f1_weighted": 0.6572
+  },
+  {
+    "config": "P4_twostage",
+    "seed": 2024,
+    "accuracy": 0.6623376623376623,
+    "f1_macro": 0.6359500666440691,
+    "f1_weighted": 0.6600764242745916
+  },
+  {
+    "config": "P4_twostage",
+    "seed": 123,
+    "accuracy": 0.6421356421356421,
+    "f1_macro": 0.6207045740999286,
+    "f1_weighted": 0.6384842974345765
+  }
+]
