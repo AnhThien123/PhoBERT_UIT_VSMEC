@@ -18,3 +18,11 @@ openpyxl>=3.1.0
 # Trực quan hóa
 matplotlib>=3.7.0
 seaborn>=0.12.0
+"""
+ PhoBERT_UIT_VSMEC.ipynb (notebook Colab endto-end), 
+cached_datasets chứa các cấu hình huấn luyện và dữ liệu, 
+results là file chứa kết quả huấn luyện và các file .csv về kết quả các seed huấn luyện.
+Hướng dẫn tái lập thực nghiệm:
+Người đọc thực thi lần lượt các khối lệnh (cells) trong tệp
+PhoBERT_UIT_VSMEC.ipynb để tái lập toàn bộ thực nghiệm.
+"""
